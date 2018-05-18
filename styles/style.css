@@ -1,0 +1,48 @@
+html {
+  background-color: #37474F;
+  font-size: 20px;
+}
+
+ul,div {
+  background: #455A64;
+  padding: 10px;
+}
+
+button{
+  background: #546E7A;
+  border : solid black;
+  margin : 0px 0px 0px 10px;
+  padding : 3px;
+  color :#000000;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.collapsible{
+  width : 100%;
+  font-Size: 20px;
+  margin: 0px 5px 10px 5px;
+}
+.deletebutton{
+  float : right;
+  color:'#000000';
+  margin: 0px 10px 10px 0px;
+  border : solid red;
+  padding : 3px 8px 3px 8px; 
+}
+#addmentee,#sortmentees{
+  font-size: 20px;
+}
+
+li {
+  margin-left: 20px;
+}
+h1{
+  text-align: center;
+  color: #00B0FF;
+}
+
+h3{
+  text-align: center;
+  color: #40C4FF;
+}
